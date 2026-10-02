@@ -6,6 +6,27 @@
 
 EShopSet is the all-in-one Shopify apps bundle for SEO, AI presence, catalog sync, internal linking, and content — managed in Shopify Admin (including Sidekick) or from your own AI agent via MCP.
 
+![EShopSet dashboard](images/eshopset-screenshot-dashboard.png)
+
+---
+
+## SEO keyword pages (use cases)
+
+Rewritten playbooks optimized for researched commercial keywords — with the **same product illustrations** as [eshopset.com](https://eshopset.com).
+
+- **[Keyword research](docs/seo-keywords.md)** — clusters, competitive SERP themes, full primary-keyword inventory
+- **[All use cases](usecases/README.md)** — 41 pages across 7 clusters
+
+| Cluster | Head keyword | Pages |
+| --- | --- | --- |
+| [SEO monitoring](usecases/seo-monitoring/README.md) | Shopify SEO monitoring | 5 |
+| [AI visibility](usecases/ai-visibility/README.md) | Shopify AI visibility | 5 |
+| [Catalog sync](usecases/catalog-sync/README.md) | Google Sheets Shopify product import | 5 |
+| [Internal linking](usecases/internal-linking/README.md) | Shopify internal linking | 6 |
+| [Content creation](usecases/content-creation/README.md) | Shopify AI content creation | 7 |
+| [Daily ops](usecases/daily-ops/README.md) | Shopify daily operations | 5 |
+| [Multi-store management](usecases/multi-store-management/README.md) | multi-store Shopify management | 8 |
+
 ---
 
 ## Why merchants choose EShopSet
